@@ -13,9 +13,9 @@ function showPage() {
 }
 
 
-/* Scroll Indicator */
+/* Scroll Indicator*/
 
-window.onScroll = function() {
+window.onscroll = function() {
     myFunction();
     scrollFunction();
 };
